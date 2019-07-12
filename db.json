@@ -1,0 +1,25 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "titulo":"React desde cero",
+            "image": "https://s3-us-west-2.amazonaws.com/devcodepro/media/blog/como-funciona-reactjs.png",
+            "price":"40",
+            "profesor":"Marcos Lopez"
+        },
+        {
+            "id":2,
+            "titulo":"Python desde cero",
+            "image": "https://python.rs/pylogo.png",
+            "price":"40",
+            "profesor":"Marcos Lopez"
+        },
+        {
+            "id":3,
+            "titulo":"Java desde cero",
+            "image": "https://www.redeszone.net/app/uploads/2013/11/java_main.png?x=768",
+            "price":"40",
+            "profesor":"Marcos Lopez"
+        }
+    ]
+}
